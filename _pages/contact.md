@@ -17,7 +17,7 @@ feature:
 {{ page.excerpt | markdownify }}
 
 #### Email :
- [mukundmitra@iisc.ac.in](mailto:mukundmitra@iisc.ac.in) <br>
+ [rajpalsingh@iisc.ac.in](mailto:rajpalsingh@iisc.ac.in) <br>
 
-#### LinkedIn : 
-  [Mukund Mitra](https://www.linkedin.com/in/mukund-mitra-400064140)
+#### LinkedIn :
+  [Rajpal Singh](https://www.linkedin.com/in/rajpal-singh-a29012194/)

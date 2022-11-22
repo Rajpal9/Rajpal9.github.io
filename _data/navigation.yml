@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-    
+
   - title: "Publications"
     url: publications/
-    
-  - title: "Achievements"
-    url: achievements/
-    
-  - title: "Projects"
-    url: projects/
-    
+
+  #- title: "Achievements"
+  #  url: achievements/
+
+  #- title: "Projects"
+  #  url: projects/
+
   - title: "Contact"
     url: contact/
