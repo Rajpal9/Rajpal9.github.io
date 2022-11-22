@@ -18,5 +18,5 @@ feature:
 
 * <i>A Provably Constrained Neural Control Architecture With Prescribed Performance for Fault-Tolerant Redundant Manipulators</i> <br>
 Rajpal Singh, Jishnu Keshavan <br>
-IEEE Access, vol. 10, pp. 97719-97732, 2022,
+IEEE Access, vol. 10, pp. 97719-97732, 2022.<br>
 <a href = "https://ieeexplore.ieee.org/abstract/document/9888126"> <i style="color:blue;">DOI: 10.1109/IRIA53009.2021.9588698</i></a>.
