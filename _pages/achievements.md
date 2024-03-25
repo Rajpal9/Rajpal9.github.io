@@ -1,16 +1,16 @@
 ----
 layout: archive
 permalink: /achievements/
-title: ""
-date: 2014-06-02T15:05:16-04:00
-modified: 2016-01-04T16:38:17-05:00
+title: "Shubham Singhal"
+date: 2024-03-25T15:05:16-04:00
+modified: 2024-03-25T16:38:17-05:00
 excerpt: ""
 ads: false
 fullwidth: true
 tiles: true
 feature:
   visible: false
-  headline: "Featured Work"
+  headline: ""
   category: achievements
 ---
 
@@ -18,7 +18,6 @@ feature:
 
 ### Honors and Awards
 <hr>
-
 * <b>Prime Minister Research Fellowship</b>, August 2023.
 * Rated as <b>Top Performer</b> for contribution to Department’s performance for 2018-19.
 * Won the <b>Best Collaborative Proposal</b> Award in Larsen & Toubro (L&T) Accelero 2018.
