@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Rajpal Singh"
+title                    : "Shubham Singhal"
 title_separator          : "-"
-name                     : "Rajpal Singh"
-description              : "Rajpal - Personal Webpage"
-url                      : https://Rajpal9.github.io/
+name                     : "Shubham Singhal"
+description              : "Shubham - Personal Webpage"
+url                      : https://shu6hamsingha1.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Rajpal9/Rajpal9.github.io
+repository               : Shu6hamSingha1/Shu6hamSingha1.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-  - "https://www.linkedin.com/in/rajpal-singh-a29012194/"
+  - "hhttps://www.linkedin.com/in/shubhamsinghal95/"
   # An array of links to social media profiles
 
 # Analytics
@@ -79,22 +79,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rajpal Singh"
-  avatar           : "website image_new.jpg"
+  name             : "Shubham Singhal"
+  avatar           : "Photo.jpg"
   bio              : "Prime Minister Research Fellow, Indian Institute of Science"
-  location         : "Bangalore, India"
-  email            : rajpalsingh@iisc.ac.in
+  location         : "Bengaluru, India"
+  email            : shubhamsing2@iisc.ac.in
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   foursquare       :
-  github           : Rajpal9
-  googlescholar    : user=1SclfncAAAAJ&hl=en
+  github           : Shu6hamSingha1
+  googlescholar    : hl=en&user=CiU6PPIAAAAJ
   keybase          :
   lastfm           :
-  linkedin         : rajpal-singh-a29012194
+  linkedin         : shubhamsinghal95
   pinterest        :
   soundcloud       :
   steam            :

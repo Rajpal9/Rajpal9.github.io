@@ -3,14 +3,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Publications"
-    url: publications/
+  #- title: "Publications"
+  #  url: publications/
+
+  #- title: "Projects"
+  #  url: projects/
 
   #- title: "Achievements"
   #  url: achievements/
 
-  #- title: "Projects"
-  #  url: projects/
+  #- title: "Work"
+  #  url: work/
 
   - title: "Contact"
     url: contact/
