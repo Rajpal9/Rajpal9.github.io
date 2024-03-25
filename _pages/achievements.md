@@ -1,4 +1,4 @@
----
+----
 layout: archive
 permalink: /achievements/
 title: ""
@@ -19,15 +19,18 @@ feature:
 ### Honors and Awards
 <hr>
 
-* <b>Prime Minister Research Fellowship</b>, August 2021.
-* <b>Best paper award</b> titled <i>“Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks”</i> in <b>IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)</b>, 2021.
-* <b>Late Breaking Result</b> for poster presentation on <i>“Tour Guide Social-Robots Task Coordination in Dynamic Indoor Environment”</i> at <b>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)</b>,2021.
-* Participated, qualified, and successfully completed <b>IEEE Robotics and Autonomous Systems (RAS) Winter School</b> on <i>“SLAM in Deformable environments”</i>, <b>Robotics Institute at University of Technology, Sydney</b>, 2021.
-* Participated, qualified, and successfully completed task on <i>“Design and Analysis of Bio-inspired tricopter with Delta Manipulator for Industrial Applications”</i> in <b>ASME, Student Mechanism and Robot Design Competition (SMRDC)</b>, 2021.
-* Presented as a speaker on <i>“Human Aware Robot Motion Planning using RRT Algorithm in Industry 4.0 Environment”</i> in <b>IEEE Women in Science in Engineering group</b>, Department of Electrical Engineering, IISc Bangalore, 2021.
-* Acquiring <b>Prime Minister's Sarvottam Trophy</b> in honour of outstanding academic performance and <b>Prime Minister’s scholarship</b> for 2016-2020.
+* <b>Prime Minister Research Fellowship</b>, August 2023.
+* Rated as <b>Top Performer</b> for contribution to Department’s performance for 2018-19.
+* Won the <b>Best Collaborative Proposal</b> Award in L&T Accelero 2018.
+* Received ‘Certificate of Appreciation’ for the contribution in Robotics in L&T.
+* A Semi-finalist in L&T TechIQ 2017.
 
 
 ### Position of Responsibility
-* Core executive member of Technocracy, the technical committee of NIT Raipur. 
-* Member of Science for Rural India, SFRI.
+* Sponsorship Coordinator in Indian Institute of Science (IISc) Rhapsody'22 and IISc Rhapsody'23.
+* Research Student in Centre for Advanced Studies & Research in Automotive Engineering (CASRAE), Delhi Technological University (DTU) in 2015. 
+* An active member of the Cultural Committee, Larsen & Toubro (L&T) Bengaluru, which has hosted various cultural events.
+* Member of Sports Committee, L&T Bengaluru, which has organized SPARDHA 2018 (L&T Sports' Week).
+* Volunteer in Hospitality Team in Human Powered Vehicle Challenge (HPVC) India 2015.
+* Volunteer in DTU Troika 2014, who has contributed majorly in organizing RoboRace.
+
