@@ -19,15 +19,17 @@ feature:
 ### Teaching
 <hr>
 
-* <b>Foundations of Robotics</b>, Gujarat Technological University (GTU), Ahemdabad, India,<i>January, 2022</i>.
+* <b>Foundations of Robotics</b>, Gujarat Technological University (GTU), Ahemdabad, India,<i> January, 2022</i>.
 
-* <b>Robot Mechanics</b>, National Institute of Technology, Srinagar, India,<i>August, 2022</i>.
+* <b>Robot Mechanics</b>, National Institute of Technology, Srinagar, India,<i> August, 2022</i>.
 
-* <b>Robotic Vision and Control</b>, National Institute of Technology, Srinagar, India,<i>January, 2023</i>.
+* <b>Robotic Vision and Control</b>, National Institute of Technology, Srinagar, India,<i> January, 2023</i>.
 
-* <b>Robot Mechanics</b>, National Institute of Technology, Srinagar, India,<i>August, 2023</i>.
+* <b>Robot Mechanics</b>, National Institute of Technology, Srinagar, India,<i> August, 2023</i>.
 
-* <b>Robotic Vision and Control</b>, National Institute of Technology, Srinagar, India,<i>January, 2024</i>.
+* <b>Robotic Vision and Control</b>, National Institute of Technology, Srinagar, India,<i> January, 2024</i>.
 
 ### Talks and Workshops
+
+* <b>IEEE-CSS Workshop: Data Driven Techniques in Control & Applications</b>, IIIT, Bangalore, India,<i> January, 2024</i>.
 
