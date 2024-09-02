@@ -23,5 +23,10 @@ IEEE Access, vol. 10, pp. 97719-97732, 2022.<br>
 
 * <i>Real-Time Constrained Tracking Control of Redundant Manipulators Using a Koopman-Zeroing Neural Network Framework</i> <br>
 Chandan Kumar Sah, Rajpal Singh, Jishnu Keshavan <br>
-IEEE RAL.<br>
+IEEE Robotics and Automation Letters.<br>
 <a href = "https://ieeexplore.ieee.org/document/10380707"> <i style="color:blue;">DOI: 10.1109/LRA.2024.3349966</i></a>.
+
+* <i>Approximation-Free Robust Tracking Control of Unknown Redundant Manipulators With Prescribed Performance and Input Constraints</i> <br>
+  Rajpal Singh, Jishnu Keshavan <br>
+IEEE Transactions on Systems, Man, and Cybernetics: Systems.<br>
+<a href = "https://ieeexplore.ieee.org/document/10380707](https://ieeexplore.ieee.org/abstract/document/10649593)"> <i style="color:blue;">DOI: 10.1109/TSMC.2024.3444030</i></a>.
