@@ -33,7 +33,6 @@ IEEE Robotics and Automation Letters.<br>
 Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya <br>
 2024 American Control Conference (ACC).<br>
 <a href = "https://ieeexplore.ieee.org/abstract/document/10644548"> <i style="color:blue;">DOI: 10.23919/ACC60939.2024.10644548</i></a>.<br>
-<a href = "https://github.com/Rajpal9/Koopman_ZNN"> <i style="color:blue;">Github Repository</i></a>
 
 
 * <i>A Provably Constrained Neural Control Architecture With Prescribed Performance for Fault-Tolerant Redundant Manipulators</i> <br>
