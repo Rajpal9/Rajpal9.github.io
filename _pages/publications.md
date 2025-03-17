@@ -49,3 +49,8 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems.<br>
 <a href = "https://ieeexplore.ieee.org/abstract/document/10649593"> <i style="color:blue;">DOI: 10.1109/TSMC.2024.3444030</i></a>.<br>
 <a href = "https://github.com/Rajpal9/Robust_ZNN_Control_for_Unknown_Kinematics"> <i style="color:blue;">Github Repository</i></a>
 
+
+* <i>An Overview of Data-Driven Paradigms for Identification and Control of Robotic Systems</i> <br>
+  Chandan Kumar Sah, Rajpal Singh, Jishnu Keshavan <br>
+Journal of the Indian Institute of Science.<br>
+<a href = "https://link.springer.com/article/10.1007/s41745-025-00464-w"> <i style="color:blue;">DOI: 10.1007/s41745-025-00464-w</i></a>.<br>
