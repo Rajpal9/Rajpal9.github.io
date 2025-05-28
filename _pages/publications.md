@@ -21,7 +21,7 @@ feature:
   Rajpal Singh, Chandan Kumar Sah, Jishnu Keshavan <br>
   International Journal of Robotics Research.<br>
 <a href = "https://journals.sagepub.com/eprint/4CDXT9UJZYPBE6MJMIQ6/full"> <i style="color:blue;"> DOI: 10.1177/0278364925134190 </i></a>.<br>
-<a href = "https://arxiv.org/abs/2405.09101"> <i style="color:blue;"> Arxiv Version </i></a>.<br>
+<a href = "https://arxiv.org/abs/2405.09101"> <i style="color:blue;"> Arxiv Version</i></a><br>
 <a href = "https://github.com/Rajpal9/Adaptive-koopman"> <i style="color:blue;">Github Repository</i></a>
 
 * <i>Real-Time Constrained Tracking Control of Redundant Manipulators Using a Koopman-Zeroing Neural Network Framework</i> <br>
