@@ -19,7 +19,7 @@ feature:
 ### Teaching
 <hr>
 
-* <b>Foundations of Robotics</b>, Gujarat Technological University (GTU), Ahemdabad, India,<i> January, 2022</i>.
+* <b>Foundations of Robotics</b>, Gujarat Technological University (GTU), Ahmedabad, India,<i> January, 2022</i>.
 
 * <b>Robot Mechanics</b>, National Institute of Technology, Srinagar, India,<i> August, 2022</i>.
 
