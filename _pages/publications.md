@@ -13,15 +13,8 @@ feature:
   headline: "Featured Work"
   category: publications
 ---
+### Journal Publications
 <hr>
-{{ page.excerpt | markdownify }}
-* <i>Generalized Momenta-Based Koopman Formalism for Robust Control of
-Euler-Lagrangian Systems</i> <br>
-  Rajpal Singh, Aditya Singh, Chidre Shravista Kashyap,Jishnu Keshavan <br>
-  accepted to IEEE ICRA 2026.<br>
-<a href = "https://arxiv.org/abs/2509.17010"> <i style="color:blue;"> Arxiv Version</i></a><br>
-
-
 * <i>Adaptive Koopman Embedding for Robust Control of Complex Nonlinear Dynamical Systems</i> <br>
   Rajpal Singh, Chandan Kumar Sah, Jishnu Keshavan <br>
   International Journal of Robotics Research, 2025.<br>
@@ -40,16 +33,9 @@ IEEE Robotics and Automation Letters, 2024.<br>
   Arxiv, Preprint 2026.<br>
 <a href = "https://arxiv.org/abs/2601.01971"> <i style="color:blue;"> Arxiv Version</i></a><br>
 
-* <i>Data-Driven Approaches to Real-Time Constrained Tracking Control of Redundant
-Manipulators</i> <br>
-   Rajpal Singh, Chandan Kumar Sah,Jishnu Keshavan <br>
-  Assistive Robotics, Vol. 2, Taylor & Francis, 2026.<br>
-<a href = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003434436-1/data-driven-approaches-real-time-constrained-tracking-control-redundant-manipulators-rajpal-singh-chandan-kumar-sah-jishnu-keshavan"> <i style="color:blue;"> Arxiv Version</i></a><br>
 
-* <i>Control barrier functions in dynamic uavs for kinematic obstacle avoidance: A collision cone approach</i> <br>
-Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya <br>
-2024 American Control Conference (ACC).<br>
-<a href = "https://ieeexplore.ieee.org/abstract/document/10644548"> <i style="color:blue;">DOI: 10.23919/ACC60939.2024.10644548</i></a>.<br>
+
+
 
 
 * <i>A Provably Constrained Neural Control Architecture With Prescribed Performance for Fault-Tolerant Redundant Manipulators</i> <br>
@@ -71,3 +57,28 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.<br>
   Chandan Kumar Sah, Rajpal Singh, Jishnu Keshavan <br>
 Journal of the Indian Institute of Science, 2024.<br>
 <a href = "https://link.springer.com/article/10.1007/s41745-025-00464-w"> <i style="color:blue;">DOI: 10.1007/s41745-025-00464-w</i></a>.<br>
+
+
+### Conference Publications
+{{ page.excerpt | markdownify }}
+* <i>Generalized Momenta-Based Koopman Formalism for Robust Control of
+Euler-Lagrangian Systems</i> <br>
+  Rajpal Singh, Aditya Singh, Chidre Shravista Kashyap,Jishnu Keshavan <br>
+  accepted to IEEE ICRA 2026.<br>
+<a href = "https://arxiv.org/abs/2509.17010"> <i style="color:blue;"> Arxiv Version</i></a><br>
+
+* <i>Control barrier functions in dynamic uavs for kinematic obstacle avoidance: A collision cone approach</i> <br>
+Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya <br>
+2024 American Control Conference (ACC).<br>
+<a href = "https://ieeexplore.ieee.org/abstract/document/10644548"> <i style="color:blue;">DOI: 10.23919/ACC60939.2024.10644548</i></a>.<br>
+
+### Book Chapters
+* <i>Data-Driven Approaches to Real-Time Constrained Tracking Control of Redundant
+Manipulators</i> <br>
+   Rajpal Singh, Chandan Kumar Sah,Jishnu Keshavan <br>
+  Assistive Robotics, Vol. 2, Taylor & Francis, 2026.<br>
+<a href = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003434436-1/data-driven-approaches-real-time-constrained-tracking-control-redundant-manipulators-rajpal-singh-chandan-kumar-sah-jishnu-keshavan"> <i style="color:blue;"> Arxiv Version</i></a><br>
+
+
+
+
