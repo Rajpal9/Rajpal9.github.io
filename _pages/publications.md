@@ -73,7 +73,7 @@ Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya <br>
 Manipulators</i> <br>
    Rajpal Singh, Chandan Kumar Sah,Jishnu Keshavan <br>
   Assistive Robotics, Vol. 2, Taylor & Francis, 2026.<br>
-<a href = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003434436-1/data-driven-approaches-real-time-constrained-tracking-control-redundant-manipulators-rajpal-singh-chandan-kumar-sah-jishnu-keshavan"> <i style="color:blue;"> Arxiv Version</i></a><br>
+<a href = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003434436-1/data-driven-approaches-real-time-constrained-tracking-control-redundant-manipulators-rajpal-singh-chandan-kumar-sah-jishnu-keshavan"> <i style="color:blue;"> Chapter Link</i></a><br>
 
 
 
