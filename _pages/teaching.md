@@ -31,6 +31,8 @@ feature:
 
 * <b>Robotics and AI </b>, MS Ramaih Institute of Technology, Bengaluru, India,<i> August, 2024</i>.
 
+* <b>Introduction to ROS </b>, MS Ramaih Institute of Technology, Bengaluru, India,<i> March, 2025</i>.
+
 ### Talks and Workshops
 
 * <b>IEEE-CSS Workshop: Data Driven Techniques in Control & Applications</b>, IIIT, Bangalore, India,<i> January, 2024</i>.
