@@ -34,10 +34,6 @@ IEEE Robotics and Automation Letters, 2024.<br>
 <a href = "https://arxiv.org/abs/2601.01971"> <i style="color:blue;"> Arxiv Version</i></a><br>
 
 
-
-
-
-
 * <i>A Provably Constrained Neural Control Architecture With Prescribed Performance for Fault-Tolerant Redundant Manipulators</i> <br>
 Rajpal Singh, Jishnu Keshavan <br>
 IEEE Access, vol. 10, pp. 97719-97732, 2022.<br>
@@ -60,7 +56,7 @@ Journal of the Indian Institute of Science, 2024.<br>
 
 
 ### Conference Publications
-{{ page.excerpt | markdownify }}
+
 * <i>Generalized Momenta-Based Koopman Formalism for Robust Control of
 Euler-Lagrangian Systems</i> <br>
   Rajpal Singh, Aditya Singh, Chidre Shravista Kashyap,Jishnu Keshavan <br>
