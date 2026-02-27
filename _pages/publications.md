@@ -62,6 +62,7 @@ Euler-Lagrangian Systems</i> <br>
   Rajpal Singh, Aditya Singh, Chidre Shravista Kashyap,Jishnu Keshavan <br>
   accepted to IEEE ICRA 2026.<br>
 <a href = "https://arxiv.org/abs/2509.17010"> <i style="color:blue;"> Arxiv Version</i></a><br>
+<a href = "https://github.com/Rajpal9/Robust_Gen_Mom_Koopman"> <i style="color:blue;">Github Repository</i></a>
 
 * <i>Control barrier functions in dynamic uavs for kinematic obstacle avoidance: A collision cone approach</i> <br>
 Manan Tayal, Rajpal Singh, Jishnu Keshavan, Shishir Kolathaya <br>
