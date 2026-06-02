@@ -687,3 +687,29 @@ footer {
     font-size: 0.8rem;
   }
 }
+/* ── NEWS SCROLL ── */
+.news-list-wrapper {
+  max-height: 340px;
+  overflow-y: auto;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 0 1.2rem;
+  scroll-behavior: smooth;
+}
+
+.news-list-wrapper::-webkit-scrollbar {
+  width: 4px;
+}
+
+.news-list-wrapper::-webkit-scrollbar-track {
+  background: var(--tag-bg);
+}
+
+.news-list-wrapper::-webkit-scrollbar-thumb {
+  background: var(--rule);
+  border-radius: 2px;
+}
+
+.news-list-wrapper::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-3);
+}
