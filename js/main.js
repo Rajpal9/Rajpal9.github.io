@@ -1,102 +1,54 @@
 /* ============================================================
    MAIN.JS — Rajpal Singh Personal Site
    ============================================================
-   To add a new section:
-     1. Create sections/mysection.html
-     2. Add 'mysection' to the SECTIONS array below
-     3. Add a nav link in index.html
+   1. Mobile nav toggle
+   2. Active nav link on scroll
+   3. Back-to-top button
    ============================================================ */
 
 
-/* ── SECTION LOADER ── */
+/* ── 1. MOBILE NAV TOGGLE ── */
 
-const SECTIONS = [
-  'hero',
-  'interests',
-  'news',
-  'publications',
-  'education',
-  'teaching',
-  'contact',
-];
+const navToggle = document.getElementById('navToggle');
+const navLinks  = document.getElementById('navLinks');
 
-async function loadSections() {
-  const main = document.getElementById('main-content');
-  main.innerHTML = ''; // clear loading message
+navToggle.addEventListener('click', () => {
+  navLinks.classList.toggle('open');
+});
 
-  for (const name of SECTIONS) {
-    try {
-      const res  = await fetch(`sections/${name}.html`);
-      const html = await res.text();
+// Close menu when a link is clicked
+navLinks.querySelectorAll('a').forEach(link => {
+  link.addEventListener('click', () => {
+    navLinks.classList.remove('open');
+  });
+});
 
-      const wrapper = document.createElement('div');
-      wrapper.innerHTML = html;
 
-      // Append each child node (avoids extra wrapper divs)
-      while (wrapper.firstChild) {
-        main.appendChild(wrapper.firstChild);
-      }
-    } catch (err) {
-      console.warn(`Could not load sections/${name}.html`, err);
+/* ── 2. ACTIVE NAV LINK ON SCROLL ── */
+
+const sections = document.querySelectorAll('section[id], div[id="about"]');
+const links    = document.querySelectorAll('.nav-links a');
+
+const sectionObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      links.forEach(link => {
+        link.classList.toggle(
+          'active',
+          link.getAttribute('href') === '#' + entry.target.id
+        );
+      });
     }
-  }
-
-  // Run UI setup after all sections are in the DOM
-  initNav();
-  initScrollSpy();
-  initBackToTop();
-}
-
-loadSections();
-
-
-/* ── MOBILE NAV TOGGLE ── */
-
-function initNav() {
-  const toggle = document.getElementById('navToggle');
-  const links  = document.getElementById('navLinks');
-
-  toggle.addEventListener('click', () => {
-    links.classList.toggle('open');
   });
+}, { threshold: 0.35 });
 
-  links.querySelectorAll('a').forEach(link => {
-    link.addEventListener('click', () => {
-      links.classList.remove('open');
-    });
-  });
-}
+sections.forEach(s => sectionObserver.observe(s));
 
 
-/* ── ACTIVE NAV LINK ON SCROLL ── */
+/* ── 3. BACK-TO-TOP BUTTON ── */
 
-function initScrollSpy() {
-  const sections = document.querySelectorAll('section[id], div[id="about"]');
-  const navLinks = document.querySelectorAll('.nav-links a');
+const backTop = document.getElementById('backTop');
 
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        navLinks.forEach(link => {
-          link.classList.toggle(
-            'active',
-            link.getAttribute('href') === '#' + entry.target.id
-          );
-        });
-      }
-    });
-  }, { threshold: 0.35 });
-
-  sections.forEach(s => observer.observe(s));
-}
-
-
-/* ── BACK-TO-TOP BUTTON ── */
-
-function initBackToTop() {
-  const btn = document.getElementById('backTop');
-
-  window.addEventListener('scroll', () => {
-    btn.classList.toggle('visible', window.scrollY > 400);
-  });
-}
+window.addEventListener('scroll', () => {
+  backTop.classList.toggle('visible', window.scrollY > 400);
+});
