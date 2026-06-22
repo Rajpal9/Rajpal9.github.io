@@ -52,3 +52,25 @@ const backTop = document.getElementById('backTop');
 window.addEventListener('scroll', () => {
   backTop.classList.toggle('visible', window.scrollY > 400);
 });
+
+/* ── 4. PROJECT ACCORDION ── */
+
+document.querySelectorAll('.project-header').forEach(header => {
+  header.addEventListener('click', () => {
+    const item   = header.closest('.project-item');
+    const body   = item.querySelector('.project-body');
+    const isOpen = item.classList.contains('open');
+
+    // Close all open items
+    document.querySelectorAll('.project-item.open').forEach(open => {
+      open.classList.remove('open');
+      open.querySelector('.project-body').style.maxHeight = null;
+    });
+
+    // Open clicked item (unless it was already open)
+    if (!isOpen) {
+      item.classList.add('open');
+      body.style.maxHeight = body.scrollHeight + 'px';
+    }
+  });
+});
