@@ -454,6 +454,149 @@ section {
   margin-left:    0.4em;
 }
 
+/* ── 9. PROJECTS (ACCORDION) ── */
+
+.project-list { list-style: none; }
+
+.project-item {
+  border-bottom: 1px solid var(--rule);
+}
+
+.project-item:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+/* Clickable header row */
+.project-header {
+  display:     flex;
+  align-items: center;
+  justify-content: space-between;
+  gap:         1rem;
+  padding:     1.1rem 0;
+  cursor:      pointer;
+  user-select: none;
+  list-style:  none;
+}
+
+.project-header:hover .project-title { color: var(--accent); }
+
+.project-header-left { display: flex; align-items: baseline; gap: 1rem; flex: 1; }
+
+.project-year {
+  font-family:    var(--mono);
+  font-size:      0.65rem;
+  color:          var(--ink-3);
+  letter-spacing: 0.05em;
+  white-space:    nowrap;
+  flex-shrink:    0;
+  padding-top:    0.1rem;
+}
+
+.project-title {
+  font-size:   1rem;
+  font-weight: 500;
+  line-height: 1.35;
+  color:       var(--ink);
+  transition:  color 0.2s;
+}
+
+/* Chevron icon */
+.project-chevron {
+  flex-shrink: 0;
+  width:       18px;
+  height:      18px;
+  color:       var(--ink-3);
+  transition:  transform 0.3s ease;
+}
+
+.project-item.open .project-chevron {
+  transform: rotate(180deg);
+  color:     var(--accent);
+}
+
+/* Collapsible body */
+.project-body {
+  max-height: 0;
+  overflow:   hidden;
+  transition: max-height 0.35s ease;
+}
+
+.project-body-inner {
+  padding: 0 0 1.4rem 0;
+  display: grid;
+  gap:     0.9rem;
+}
+
+.project-desc {
+  font-size:   0.92rem;
+  color:       var(--ink-2);
+  line-height: 1.7;
+}
+
+/* Bullet points inside description */
+.project-desc ul {
+  margin:     0.4rem 0 0 1.2rem;
+  display:    grid;
+  gap:        0.3rem;
+}
+
+.project-desc ul li {
+  font-size:   0.88rem;
+  color:       var(--ink-2);
+  line-height: 1.6;
+}
+
+/* Status tag e.g. "Ongoing" */
+.project-status {
+  display:        inline-block;
+  font-family:    var(--mono);
+  font-size:      0.6rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding:        0.15em 0.6em;
+  border-radius:  2px;
+  margin-left:    0.5em;
+  vertical-align: middle;
+}
+
+.project-status.ongoing {
+  background: #e6f4ea;
+  color:      #276749;
+}
+
+.project-status.completed {
+  background: var(--tag-bg);
+  color:      var(--ink-3);
+}
+
+/* Link buttons — same style as pub-link */
+.project-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
+.project-link {
+  font-family:     var(--mono);
+  font-size:       0.64rem;
+  letter-spacing:  0.06em;
+  text-transform:  uppercase;
+  color:           var(--ink-3);
+  text-decoration: none;
+  border:          1px solid var(--rule);
+  padding:         0.25em 0.7em;
+  border-radius:   2px;
+  background:      var(--surface);
+  transition:      all 0.18s;
+  display:         inline-flex;
+  align-items:     center;
+  gap:             0.35em;
+}
+
+.project-link:hover {
+  color:           var(--accent);
+  border-color:    var(--accent);
+  background:      var(--accent-light);
+  text-decoration: none;
+}
+
+.project-link svg { width: 11px; height: 11px; flex-shrink: 0; }
 
 /* ── 9. EDUCATION ── */
 
